@@ -62,7 +62,7 @@ void deletedata(string i){
 }
 int main(){
 	while(1){
-		printf("(1)Insert (2)Change score (3)Print all (4)Delete (5)Exit\n");
+		printf("(1) Insert (2) Change score (3) Print all (4) Delete (5) Exit\n");
 		int mv;
 		cin>>mv;
 		if(mv == 5)
